@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Testing " max_length="40" name="x_122600_test_auto_testing" type="collection">
+        <element label="active" max_length="40" name="active" type="string"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="excution Order" max_length="40" name="excution_order" type="integer"/>
+        <element label="input variable" max_length="40" name="input_variable" type="string"/>
+        <element label="Step config" max_length="40" name="step_config" type="string"/>
+        <element label="table" max_length="40" name="table" type="string"/>
+        <element label="Test" max_length="40" name="test" type="string"/>
+        <element label="timeout" max_length="40" name="timeout" type="string"/>
+    </element>
+</database>

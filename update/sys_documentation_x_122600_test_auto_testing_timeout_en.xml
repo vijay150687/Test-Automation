@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="timeout" label="Timeout" language="en" table="x_122600_test_auto_testing">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>timeout</element>
+            <help/>
+            <hint/>
+            <label>Timeout</label>
+            <language>en</language>
+            <name>x_122600_test_auto_testing</name>
+            <plural>Timeouts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-11 06:24:27</sys_created_on>
+            <sys_id>7c7b14284f202300e77fe321a310c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Timeout</sys_name>
+            <sys_package display_value="Test Automation" source="x_122600_test_auto">ac19d8204f202300e77fe321a310c73f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Automation">ac19d8204f202300e77fe321a310c73f</sys_scope>
+            <sys_update_name>sys_documentation_x_122600_test_auto_testing_timeout_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-11 06:24:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

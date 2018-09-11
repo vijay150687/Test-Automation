@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Testing ">247b14284f202300e77fe321a310c717</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Testing s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_122600_test_auto_testing</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_122600_test_auto.testing_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-11 06:24:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6c7b14284f202300e77fe321a310c719</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test Automation" source="x_122600_test_auto">ac19d8204f202300e77fe321a310c73f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Automation">ac19d8204f202300e77fe321a310c73f</sys_scope>
+        <sys_update_name>sys_app_module_6c7b14284f202300e77fe321a310c719</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-11 06:24:26</sys_updated_on>
+        <timeline_page/>
+        <title>Testing s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
